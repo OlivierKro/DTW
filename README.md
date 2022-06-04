@@ -12,4 +12,3 @@
 
 ## How to run program
 Just open program code in Jupyter Notebook
-# DTW
